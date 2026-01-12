@@ -31,9 +31,8 @@ C# runs on the .NET runtime, which allows applications to execute on multiple pl
 **Cloud & Enterprise Solutions:** Widely used for scalable applications on Microsoft Azure and enterprise software.
 
 ### Basic Program in C#
-
+```
 using System;
-​
 namespace HelloFolks{   
     class HelloFolks{   
         static void Main(string[] args){
@@ -42,3 +41,4 @@ namespace HelloFolks{
         }
     }
 }
+```
