@@ -1,7 +1,7 @@
 # Chapter 1: Getting Started with C#
 
-- [1.1 Introduction to C#](#11-introduction-to-kafka-and-event-streaming)
-- [1.2 Kafka in Modern Architecture](#12-kafka-in-modern-architecture)
+- [1.1 Introduction to C#](#11-introduction-to-C#)
+- [1.2 How to Install and Setup Visual Studio for C#?](#12-how-to-install-and-setup-visual-studio-for-C#)
 - [1.3 Kafka Ecosystem Overview](#13-kafka-ecosystem-overview)
 - [1.4 Kafka vs RabbitMQ vs MQTT vs Azure Event Hubs](#14-kafka-vs-rabbitmq-vs-mqtt-vs-azure-event-hubs)
 
@@ -42,3 +42,7 @@ namespace HelloFolks{
     }
 }
 ```
+
+## How to Install and Setup Visual Studio for C#
+
+Installing provides a powerful IDE for writing, compiling, and debugging code, and supports developing desktop, web, and mobile apps with C# and .NET.
